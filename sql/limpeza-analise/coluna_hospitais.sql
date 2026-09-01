@@ -1,6 +1,6 @@
 -- ============================================================
 -- IMUNE - Health Investment Advisor
--- Coluna de descrição Raça/Cor
+-- Coluna de nomes para hospitais
 -- ============================================================
 
 ALTER TABLE BARI
