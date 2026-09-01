@@ -1,4 +1,4 @@
-Markdown
+
 # Limpeza SQL
 ## Esta pasta contém as limpezas e alterações utilizadas na camada incial do projeto IMUNE.
 ---
